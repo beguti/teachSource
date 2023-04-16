@@ -1,0 +1,37 @@
+.buton{
+    clear: both;
+    border:none;
+    color: #F2EEEB;
+    width: 40%;
+    padding: 8px 8px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: #8338EC;
+    font-size: large;
+}
+
+.buton:hover{
+    transition: background-color 0.3s;
+    color: #F2EEEB;
+    background-color: #8860c0;
+}
+
+h3{  
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.materyalOlustur{
+    width:40%;
+    background-color: white;
+    box-shadow: 1px 1px 20px rgba(41, 40, 40, 0.486);
+    border-radius: 10px;
+    padding:50px;
+    margin:0 auto;
+}
+
+
+
+

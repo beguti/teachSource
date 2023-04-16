@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500&display=swap');
+
+.loginPage{
+    width:40%;
+    height:400px;
+    margin:150px auto;
+    box-shadow: 1px 1px 20px rgba(41, 40, 40, 0.486);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.buton{
+    clear: both;
+    border:none;
+    color: #F2EEEB;
+    width: 40%;
+    padding: 8px 8px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: #0F9BF2;
+    font-size: large;
+}
+
+.buton:hover{
+    transition: background-color 0.3s;
+    color: #F2EEEB;
+    background-color: #0FC9F2;
+}
+
+h3{  
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 60px;
+
+}
+
+.logo{
+    width: 100%;
+    margin-bottom: 20px
+}
+
+.logo img{
+    width:100px;
+    height: 100px;;
+}
+
+.logo p{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    color: #4F7336;
+    ;
+}
